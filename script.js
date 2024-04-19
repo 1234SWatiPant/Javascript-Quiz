@@ -78,28 +78,30 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'What is 2 + 2?',
+    question: 'What is 1+32*2?',
     answers: [
-      { text: '4', correct: true },
-      { text: '22', correct: false }
+      { text: '65', correct: true },
+      { text: '22', correct: false },
+      { text: '66', correct: false },
+      { text: '98', correct: false },
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'What is capital of India?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'Delhi', correct: true },
+      { text: 'Tokyo', correct: false},
+      { text: 'America', correct: false
+      { text: 'Brazil', correct: false }
     ]
   },
   {
-    question: 'Is web development fun?',
+    question: 'End of World War?',
     answers: [
-      { text: 'Kinda', correct: false },
-      { text: 'YES!!!', correct: true },
-      { text: 'Um no', correct: false },
-      { text: 'IDK', correct: false }
+      { text: '1916', correct: false },
+      { text: '1918', correct: true },
+      { text: '1886', correct: false },
+      { text: '1819', correct: false }
     ]
   },
   {
