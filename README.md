@@ -1,3 +1,4 @@
+![jsquiz](https://github.com/1234SWatiPant/Javascript-Quiz/assets/125669642/31096bb6-edea-443e-a444-a3e942f60f69)
 This project is a simple quiz built using HTML, CSS, and JavaScript. It presents the user with multiple-choice questions and provides feedback on their answers. The quiz is styled using CSS to make it visually appealing.
 
 ## Features
